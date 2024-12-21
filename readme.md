@@ -6,6 +6,9 @@ The "Rewards for Co-Teaching Sessions" project introduces a blockchain-based rew
 
 ## Contract Address
 0x927632a6CaA4fefE13528FF915A67a6099B5ddFB
+![image](https://github.com/user-attachments/assets/c2dee190-39ba-4e50-a7ea-71ce64e1eb8e)
+
+
 
 ## Project Vision
 The project envisions creating a transparent and immutable system for incentivizing co-teaching efforts. By leveraging blockchain, it ensures fair and automated reward distribution, building trust and collaboration among teaching communities worldwide.
